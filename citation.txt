@@ -1,0 +1,8 @@
+@inproceedings{REPO-263,
+    author = "Liu, Bingyang and Bi, Jun and Zhou, Yu",
+    booktitle = "Proceedings of the 2016 ACM SIGCOMM Conference",
+    pages = "595¨C596",
+    series = "SIGCOMM '16",
+    title = "{Source Address Validation in Software Defined Networks}",
+    year = "2016"
+}
